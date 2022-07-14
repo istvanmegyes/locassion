@@ -1,0 +1,11 @@
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\bin\Debug\Loccassion2.0.exe.config
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\bin\Debug\Loccassion2.0.exe
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\bin\Debug\Loccassion2.0.pdb
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion.csprojAssemblyReference.cache
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion2._0.MainMenu.resources
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion2._0.Properties.Resources.resources
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion.csproj.GenerateResource.cache
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion.csproj.CoreCompileInputs.cache
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion2.0.exe
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion2.0.pdb
+F:\Szakdolgozat\Loccassion\Loccassion\Loccassion2.0\obj\Debug\Loccassion2._0.StartUpWindow.resources
